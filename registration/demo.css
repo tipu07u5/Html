@@ -1,0 +1,83 @@
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+	margin:0;
+	padding:0;
+}
+html,body {
+	margin:0;
+	padding:0;
+	height: 100%;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+img { 
+	border:0;
+}
+address,caption,cite,code,dfn,th,var {
+	font-style:normal;
+	font-weight:normal;
+}
+ol,ul {
+	list-style:none;
+}
+caption,th {
+	text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+header{
+	display: ;
+}
+/* General Demo Style */
+body{
+	font-family:;
+	background:url(images/mainback.jpg);
+	font-weight: ;
+	font-size: 15px;
+	color:;
+	overflow-y:;
+	
+}
+a{
+	color: ;
+	text-decoration: none;
+}
+.container{
+	
+}
+.clr{
+	clear: ;
+}
+.container > header{
+	
+}
+
+/* Header Style */
+.freshdesignweb-top{
+	
+}
+.freshdesignweb-top a{
+
+}
+.freshdesignweb-top span.right{
+	float: right;
+}
+.freshdesignweb-top span.right a{
+	
+}
+.freshdesignweb-demos{
+  
+.freshdesignweb-demos a{
+   
+}
+.freshdesignweb-demos a:hover{
+	
+}
+.freshdesignweb-demos a.current,
+.freshdesignweb-demos a.current:hover{
+	
+}
